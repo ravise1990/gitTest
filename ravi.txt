@@ -1,1 +1,2 @@
 this is test from txt file
+this is editing from git Hub.
